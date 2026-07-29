@@ -1,5 +1,11 @@
 .env
-.chroma/
+
+# Python
 __pycache__/
 *.pyc
+
+# macOS
 .DS_Store
+
+# Chroma DB
+.chroma/
