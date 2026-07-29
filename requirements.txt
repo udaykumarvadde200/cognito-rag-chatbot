@@ -1,0 +1,47 @@
+# ─────────────────────────────────────────────
+# Core LangChain
+# ─────────────────────────────────────────────
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-huggingface
+langgraph
+# ─────────────────────────────────────────────
+# HuggingFace (replaces OpenAI)
+# ─────────────────────────────────────────────
+huggingface-hub
+sentence-transformers
+transformers
+tokenizers
+
+# ─────────────────────────────────────────────
+# Vector Store
+# ─────────────────────────────────────────────
+chromadb
+
+# ─────────────────────────────────────────────
+# Document Loaders
+# ─────────────────────────────────────────────
+pypdf
+unstructured
+beautifulsoup4
+requests
+
+# ─────────────────────────────────────────────
+# Tools
+# ─────────────────────────────────────────────
+yfinance           # stocks
+tavily-python      # web search
+
+# ─────────────────────────────────────────────
+# Streamlit UI
+# ─────────────────────────────────────────────
+streamlit
+
+# ─────────────────────────────────────────────
+# Utilities
+# ─────────────────────────────────────────────
+python-dotenv
+pydantic
+tiktoken
