@@ -258,7 +258,6 @@ python-dotenv
 
 **Vadde Uday Kumar**
 Final Year ECE Student — RGUKT RK Valley
-Summer Internship Project 2026
 
 ---
 
